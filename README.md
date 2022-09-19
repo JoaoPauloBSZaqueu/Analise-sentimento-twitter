@@ -1,8 +1,6 @@
 # Analise-sentimento-twitter
 
-Com um Dataset obtido do Twitter com 100K postagens entre os dias 01/08/2018 e 20/10/2018. Cada postagem é classificada como **positiva**, **negativa** ou **neutra**.  
-
-Desenvolvi um modelo para detectar o sentimento de uma publicação do Twitter a classificando em uma das três categorias: positiva, negativa ou neutra.
+Com um Dataset obtido do Twitter com 100K postagens entre os dias 01/08/2018 e 20/10/2018. Desenvolvi um modelo para detectar o sentimento de uma publicação do Twitter a classificando em uma das três categorias: **positiva**, **negativa** ou **neutra**.  
 
 Descrição das colunas:
 
